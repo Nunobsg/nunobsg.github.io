@@ -4,7 +4,9 @@ published: true
 
 ## Test
 
-![]({{site.baseurl}}/https://upload.wikimedia.org/wikipedia/commons/a/a4/Anatomy_of_a_Sunset-2.jpg)
+![Anatomy_of_a_Sunset-2.jpg]({{site.baseurl}}/_posts/Anatomy_of_a_Sunset-2.jpg)
+
+
 
 
 
