@@ -4,10 +4,10 @@ published: true
 
 ## Test
 
-![Anatomy_of_a_Sunset-2.jpg]({{site.baseurl}}/_posts/Anatomy_of_a_Sunset-2.jpg)
+![]({{site.baseurl}}/_posts/Anatomy_of_a_Sunset-2.jpg)
 
 
-
+![]({{site.baseurl}}/images/jekyll-logo.png)
 
 
 
