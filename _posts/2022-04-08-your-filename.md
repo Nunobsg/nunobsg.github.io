@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## **A New Post**
+![]({{site.baseurl}}/https://upload.wikimedia.org/wikipedia/commons/a/a4/Anatomy_of_a_Sunset-2.jpg)## **A New Post**
 
 ## Test
 
